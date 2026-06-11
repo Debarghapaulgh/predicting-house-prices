@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+anaconda_projects/
+
+boxPlot.jpg
+boxPlotTrainData.jpg
+boxPlotTestData.jpg
